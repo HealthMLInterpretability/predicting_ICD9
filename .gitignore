@@ -1,2 +1,4 @@
 *.csv
 *.crdownload
+*.ipynb_checkpoints
+mimic_data_preprocessing_conforming_0-checkpoint.ipynb
